@@ -1,5 +1,8 @@
 /Extra\ Materials
 
+# For now, don't save any data
+*.mat
+
 # Created by https://www.gitignore.io/api/latex,matlab
 
 ### LaTeX ###
